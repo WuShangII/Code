@@ -3,6 +3,6 @@
 using namespace std;
 
 int main(){
-    cout << "first commit";
+    cout << "second commit";
     return 0;
 }
